@@ -1,0 +1,85 @@
+html {
+    background-color: White;
+    font-family: Tahoma;
+}
+
+#html2 {
+    background-color: white;
+}
+
+button {
+    color:white;
+    background-color: Black;
+    font-family: Tahoma;
+    border-style: hidden;
+    height: 25px;
+    width: 200px;
+}
+
+#box {
+    background-color: black;
+    height: fit-content;
+}
+
+article {
+    color:black;
+    font-family: Tahoma;
+}
+
+#zdj {
+    width: 250px;
+    height: 250px;
+    padding-inline: 70px;
+}
+
+#box2 {
+    background-color: black;
+    height:fit-content;
+}
+
+#button2 {
+    color:white;
+    background-color:black;
+    font-family: Tahoma;
+    border-style: hidden;
+    height: 25px;
+    width: 200px;
+}
+
+#zdj2 {
+    width: 250px;
+    height: 650px;
+    padding-inline: 70px;
+    scale: 70%;
+}
+
+span {
+    color:grey;
+}
+
+#zdj3 {
+    height: 400px;
+    width: 600px;
+}
+
+#box3 {
+    background-image: url(img/GD.jpg);
+    height: 500px;
+    border-color: black;
+    border-style: solid;
+}
+
+#art {
+    font-size: 20px;
+
+}
+
+article {
+    border-color: black;
+    border-style: solid;
+}
+
+nav {
+    font-family: Candara;
+    font-size: 30px;
+}
